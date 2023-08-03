@@ -6,7 +6,7 @@
 
 <div align="center">
 
-    ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus )
+    ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus)
 
 
     <p>
