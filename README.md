@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+
 <!--
 **jxxn92/jxxn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
