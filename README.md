@@ -52,6 +52,7 @@
 <br>
 
 ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
 
 <br>
 <br>
