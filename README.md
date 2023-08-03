@@ -53,6 +53,7 @@
 
 ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn)](https://solved.ac/jxxn)
 
 <br>
 <br>
@@ -63,6 +64,7 @@
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+    
 
 </p>
 </div>
