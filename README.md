@@ -7,8 +7,9 @@
         unc2rt@in, H2ll0 W0r1d
     </p>
 </div>
-- 블로그 : <https://jxxn92.github.io> ✨
-- 이메일 : <futjxxn@naver.com>
+
+- 블로그 : <https://jxxn92.github.io> 🤡
+- 이메일 : <futjxxn@naver.com> 💬
 
 ## 👻 현재 : OFFLINE
 
