@@ -13,7 +13,7 @@
 - 블로그 : <https://jxxn92.github.io> 🤡
 - 이메일 : <futjxxn@naver.com> 💬
 
-## 👻 현재 : OFFLINE
+## ⭐ 현재 : OFFLINE
 
 <div align="center">
 
