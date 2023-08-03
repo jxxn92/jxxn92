@@ -1,7 +1,7 @@
 <div align="center">
     <p>
     <!--방문자 수-->
-        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxxn92&count_bg=%23CB3F7C&title_bg=%23555555&icon=smugmug.svg&icon_color=%23CB3F7C&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+        ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxxn92&count_bg=%23CB3F7C&title_bg=%23555555&icon=smugmug.svg&icon_color=%23CB3F7C&title=Visitors&edge_flat=false)
     </p>
     <p>
         unc2rt@in
