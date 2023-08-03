@@ -14,8 +14,17 @@
 
 ##
 
+<br>
+<br>
+
 -   블로그 : <https://jxxn92.github.io> 🤡
+
+<br>
+
 -   이메일 : <futjxxn@naver.com> 💬
+
+<br>
+<br>
 
 ## ⭐ 현재 : OFFLINE
 
