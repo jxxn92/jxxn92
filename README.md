@@ -1,7 +1,10 @@
 <!--방문자 수-->
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxxn92&count_bg=%23CB3F7C&title_bg=%23555555&icon=smugmug.svg&icon_color=%23CB3F7C&title=Visitors&edge_flat=false)
+
 ## 👻 안녕?
 
+<br>
 <div align="center">
     <p>
         unc2rt@in, H2ll0 W0r1d
@@ -11,14 +14,40 @@
 
 ##
 
-- 블로그 : <https://jxxn92.github.io> 🤡
-- 이메일 : <futjxxn@naver.com> 💬
+-   블로그 : <https://jxxn92.github.io> 🤡
+-   이메일 : <futjxxn@naver.com> 💬
 
 ## ⭐ 현재 : OFFLINE
 
+<br>
+
 <div align="center">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus)
+
+<br>
+<br>
+<br>
+<br>
 
 <p>  
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
