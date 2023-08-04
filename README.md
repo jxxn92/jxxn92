@@ -9,11 +9,11 @@
 <p>
 <br>
     <div align="center">
-        <strong> 🌐 Contact 🌐 </strong>
-        <br><br>
-        >> futjxxn@gmail.com << 
-        <br><br><br> 
-        <strong> 🌐 Social 🌐 </strong>
+        <strong> 📞 Contact 📞 </strong>
+        <br>
+        <h4><strong> futjxxn@gmail.com </strong></h4>
+        <br>
+        <strong> 📣 Social 📣 </strong>
         <br><br>
         <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
         <br>
@@ -24,7 +24,7 @@
     <br>
 </p>
 
-## ✔️ INFO
+## 👽 INFO
 
 <p>
 <br>
@@ -96,7 +96,7 @@
 <br>
 <br>
 
-##
+## 👺 Stats
 
 <div align="center">
 
