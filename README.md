@@ -88,11 +88,11 @@
 <p>
     <h1><strong><br> 🎧 Tool <br></strong></h1>
     <br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-    <br><br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <!-- <p>
