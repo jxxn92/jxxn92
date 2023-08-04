@@ -61,21 +61,22 @@
 
 <div align="center">
 
+<!--
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+-->
 
 <br>
 
 </div>
 
+<br>
+<br>
+<br>
+
+##
+
 <div align="center">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
