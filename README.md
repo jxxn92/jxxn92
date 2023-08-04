@@ -15,14 +15,13 @@
         <br><br><br> 
         <strong> 🌐 Social 🌐 </strong>
         <br><br>
-        <!--
         <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-        -->
-        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-        <!--
-        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-        -->
+        <br>
+        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+        <br>
+        <a href="https://discord.gg/yycSfQS7CW" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white"/></a>   
     </div>
+    <br>
 </p>
 
 ## ✔️ INFO
@@ -68,7 +67,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <br>
+    <br><br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 </p>
@@ -76,6 +75,9 @@
 <p>
     <h1><strong><br> 🎧 Tool <br></strong></h1>
     <br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <br><br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 </p>
