@@ -6,17 +6,17 @@
 
 ## 👻 HELLO? <br><br>
 
+<p>
 <br>
 <div align="center">
-    <p>
-        🌐 Contact 🌐
-        <br>
-        <br>
-        >> futjxxn@gmail.com <<
-    </p>
-<br>
+    <strong> 🌐 Contact 🌐 </strong>
+    <br>
+    >> futjxxn@gmail.com <<
+    <br>
+</p>
 
-<p>  <!--
+<p> 
+    <!--
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
     -->
     <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
@@ -32,12 +32,7 @@
 
 <div align="center">
 
-<br>
-<br>
-
-<br>
-
-<br>
+<br><br><br><br>
 
 </div>
 
@@ -64,6 +59,7 @@
 <!--
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
+<h1>Language</h1>
 
 <br>
 
