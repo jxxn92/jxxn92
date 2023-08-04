@@ -31,7 +31,9 @@
 <div align="center">
 
 ```
-    test
+안녕하세요?
+
+제 깃허브 페이지 구경하고 가세요.
 
 ```
 
@@ -93,11 +95,10 @@
 </div>
 
 <br>
-<br>
-<br>
 
-## 👺 Stats
+## 👺 Stats <br><br>
 
+<p>
 <div align="center">
 
 <br>
@@ -109,6 +110,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
 -->
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn)](https://solved.ac/jxxn)
 
@@ -118,3 +120,4 @@
 <br>
 
 </div>
+</p>
