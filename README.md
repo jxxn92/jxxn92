@@ -1,8 +1,12 @@
-<!--방문자 수-->
+<!-- 방문자 수 -->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxxn92&count_bg=%23CB3F7C&title_bg=%23555555&icon=smugmug.svg&icon_color=%23CB3F7C&title=Visitors&edge_flat=false)
 
+<!-- 깃허브 페이지 헤드 꾸미기 -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Jxxn's%20GitHub%20&fontAlign=50&fontAlignY=40&desc=Welcome%20&descAlign=75&descAlignY=50&animation=twinkling&fontSize=70)
+
+<!-- 처음 페이지 -->
 
 ## 👻 HELLO? <br><br>
 
@@ -24,7 +28,9 @@
     <br>
 </p>
 
-## 👽 INFO
+<!-- 정보 -->
+
+# 👽 INFO
 
 <p>
 <br>
@@ -40,7 +46,9 @@
 </div>
 </p>
 
-## ⭐&nbsp; 현재 : ONLINE <br><br>
+<!-- 상태 -->
+
+# ⭐&nbsp; 현재 : ONLINE <br><br>
 
 <br>
 
@@ -56,7 +64,9 @@
 
 <br>
 
-## 📗 Learn <br><br>
+<!-- 공부 -->
+
+# 📗 Learn <br><br>
 
 <div align="center">
 
@@ -69,6 +79,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
@@ -96,28 +107,24 @@
 
 <br>
 
+<!-- 상태 -->
+
 ## 👺 Stats <br><br>
 
 <p>
 <div align="center">
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 ![Jxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxn92&show_icons=true&theme=noctis_minimus)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
--->
 <br>
+
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=jxxn)
+<br> -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn)](https://solved.ac/jxxn)
-
-<br>
-<br>
-<br>
 <br>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact) -->
+<br>
 </div>
 </p>
