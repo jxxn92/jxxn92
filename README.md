@@ -13,6 +13,17 @@
         <br>
         <br>
         >> futjxxn@gmail.com <<
+    </p>
+<br>
+
+<p>  <!--
+    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+    -->
+    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+    <!--
+    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+    -->
+
 </p>
 
 </div>
@@ -24,11 +35,7 @@
 <br>
 <br>
 
-블로그 : <https://jxxn92.github.io> 🤡
-
 <br>
-
-이메일 : <futjxxn@naver.com> 📬
 
 <br>
 
@@ -86,10 +93,4 @@
 <br>
 <br>
 
-<p>  
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-
-</p>
 </div>
