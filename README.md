@@ -8,33 +8,36 @@
 
 <p>
 <br>
-<div align="center">
-    <strong> 🌐 Contact 🌐 </strong>
-    <br>
-    >> futjxxn@gmail.com <<
-    <br>
+    <div align="center">
+        <strong> 🌐 Contact 🌐 </strong>
+        <br><br>
+        >> futjxxn@gmail.com << 
+        <br><br><br> 
+        <strong> 🌐 Social 🌐 </strong>
+        <br><br>
+        <!--
+        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+        -->
+        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+        <!--
+        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+        -->
+    </div>
 </p>
 
-<p> 
-    <!--
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-    -->
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-    <!--
-    <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-    -->
+## ✔️ INFO
 
-</p>
-
-</div>
-
-## ✔️ Info
-
+<p>
+<br>
 <div align="center">
 
-<br><br><br><br>
+```
+    test
+
+```
 
 </div>
+</p>
 
 ## ⭐&nbsp; 현재 : ONLINE <br><br>
 
@@ -59,9 +62,31 @@
 <!--
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
-<h1>Language</h1>
+<p>
+    <h1><strong><br> 💻 Language <br></strong></h1>
+    <br>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-<br>
+</p>
+
+<p>
+    <h1><strong><br> 🎧 Tool <br></strong></h1>
+    <br>
+    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+</p>
+
+<!-- <p>
+    <code>
+    	<img height="20"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"
+        style="max-width: 100%;">
+     </code>
+</p> -->
 
 </div>
 
