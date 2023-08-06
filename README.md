@@ -25,7 +25,7 @@
         <br>
         <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
         <br>
-        <a href="https://discord.gg/yycSfQS7CW" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white"/></a>   
+        <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white"/></a>   
     </div>
     <br>
 </p>
@@ -50,7 +50,7 @@
 
 <!-- 상태 -->
 
-# ⭐&nbsp; 현재 : ONLINE <br><br>
+# ⭐&nbsp; 현재 : OFFLINE <br><br>
 
 <br>
 
@@ -58,7 +58,7 @@
 
 ```
 
-현재 접속 중입니다.
+현재 비접속 중입니다.
 
 ```
 
@@ -90,11 +90,11 @@
 <p>
     <h1><strong><br> 🎧 Tool <br></strong></h1>
     <br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-    <br><br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <!-- <p>
