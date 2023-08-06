@@ -21,6 +21,8 @@
         <br><br>
         <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
         <br>
+        <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+        <br>
         <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
         <br>
         <a href="https://discord.gg/yycSfQS7CW" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white"/></a>   
@@ -128,3 +130,10 @@
 <br>
 </div>
 </p>
+
+<!-- <details>
+  <summary> 🎁 </summary>
+
+  ## Jxxn
+
+</details> -->
