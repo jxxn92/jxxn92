@@ -50,7 +50,7 @@
 
 <!-- 상태 -->
 
-# ⭐&nbsp; 현재 : ONLINE <br><br>
+# ⭐&nbsp; 현재 : OFFLINE <br><br>
 
 <br>
 
@@ -58,7 +58,7 @@
 
 ```
 
-현재 접속 중입니다.
+현재 비접속 중입니다.
 
 ```
 
@@ -82,6 +82,9 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
@@ -92,6 +95,7 @@
     <br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -126,14 +130,15 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn)](https://solved.ac/jxxn)
 <br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
 <br>
+
 </div>
 </p>
 
 <!-- <details>
   <summary> 🎁 </summary>
 
-  ## Jxxn
+  # 깜짝선물
 
 </details> -->
