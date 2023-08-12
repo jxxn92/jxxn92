@@ -76,7 +76,7 @@
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
 <p>
-    <h1><strong><br> 💻 Language <br></strong></h1>
+    <h1><strong><br> 💻 Studying <br></strong></h1>
     <br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -91,7 +91,7 @@
 </p>
 
 <p>
-    <h1><strong><br> 🎧 Tool <br></strong></h1>
+    <h1><strong><br> 🎧 Tools <br></strong></h1>
     <br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
