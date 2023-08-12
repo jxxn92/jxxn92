@@ -126,7 +126,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn)](https://solved.ac/jxxn)
 <br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxn92&layout=compact)
 <br>
 </div>
 </p>
