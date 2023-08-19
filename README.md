@@ -50,15 +50,16 @@
 
 <!-- 상태 -->
 
-# ⭐&nbsp; 현재 : OFFLINE <br><br>
-
+# ⭐&nbsp; 현재 : ONLINE <br><br>
+<!-- ONLINE -->
+<!-- OFFLINE -->
 <br>
 
 <div align="center">
 
 ```
 
-현재 비접속 중입니다.
+현재 접속 중입니다.
 
 ```
 
