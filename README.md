@@ -51,8 +51,7 @@
 <!-- 상태 -->
 
 # ⭐&nbsp; 현재 : OFFLINE <br><br>
-<!-- ONLINE -->
-<!-- OFFLINE -->
+
 <br>
 
 <div align="center">
@@ -85,9 +84,13 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
 </p>
 
@@ -95,11 +98,15 @@
     <h1><strong><br> 🎧 Tools <br></strong></h1>
     <br>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=intellijidea&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    
 </p>
 
 <!-- <p>
