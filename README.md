@@ -19,7 +19,7 @@
         <br>
         <strong> 📣 Social 📣 </strong>
         <br><br>
-        <a href="https://jxxn92.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
+        <a href="https://velog.io/@jxxn92/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
         <br>
         <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
         <br>
