@@ -15,7 +15,7 @@
     <div align="center">
         <strong> 📞 Contact 📞 </strong>
         <br>
-        <h4><strong> futjxxn@gmail.com </strong></h4>
+        <h3><strong> futjxxn@gmail.com </strong></h3>
         <br>
         <strong> 📣 Social 📣 </strong>
         <br><br>
