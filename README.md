@@ -13,12 +13,9 @@
 <p>
 <br>
     <div align="center">
-        <strong> 📞 Contact 📞 </strong>
-        <br>
+        <h3> 📞 Contact 📞 </h3>
         <h3><strong> futjxxn@gmail.com </strong></h3>
-        <br>
-        <strong> 📣 Social 📣 </strong>
-        <br><br>
+        <h3> 📣 Social 📣 </h3>
         <a href="https://velog.io/@jxxn92/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
         <br>
         <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
@@ -92,13 +89,13 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,idea" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=spring,nginx,gradle,hibernate" />
+        <img src="https://skillicons.dev/icons?i=spring,gradle,hibernate,nginx" />
         <br><br>
         <img src="https://skillicons.dev/icons?i=django,flask" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=docker,k8s,github,git" />
+        <img src="https://skillicons.dev/icons?i=github,docker,k8s,git" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=postman,notion,discord" />
+        <img src="https://skillicons.dev/icons?i=discord,postman,notion" />
         <br><br>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
