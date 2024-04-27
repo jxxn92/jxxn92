@@ -23,9 +23,8 @@
         <br>
         <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
         <br>
-        <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-        <br>
-        <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white"/></a>   
+        <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+        <a href="https://discord.gg/" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>   
     </div>
     <br>
 </p>
@@ -75,39 +74,39 @@
 <!--
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
-<p>
+<p align="center">
     <h1><strong><br> 💻 Studying <br></strong></h1>
     <br>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,py,js,c,cpp" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> <!-- mariadb 추가 -->
+    </a>
 </p>
 
-<p>
+<p align="center">
     <h1><strong><br> 🎧 Tools <br></strong></h1>
     <br>
-    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=intellijidea&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-    
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,idea" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=spring,nginx,gradle,hibernate" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=django,flask" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=docker,k8s,github,git" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=postman,notion,discord" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
+        <br><br>
+    </a>
 </p>
 
 <!-- <p>
