@@ -79,7 +79,7 @@
         <br><br>
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> <!-- mariadb 추가 -->
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> <!-- mariadb 추가 -->
     </a>
 </p>
 
