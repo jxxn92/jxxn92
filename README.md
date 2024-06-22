@@ -98,7 +98,6 @@
         <img src="https://skillicons.dev/icons?i=discord,postman,notion" />
         <br><br>
         <div style="display: flex; justify-content: center; align-items: center;">
-            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="40px"/>
             <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="40px"/>
             <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="40px"/>
         </div>
