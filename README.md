@@ -97,8 +97,11 @@
         <br><br>
         <img src="https://skillicons.dev/icons?i=discord,postman,notion" />
         <br><br>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="40px"/>
+            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="40px"/>
+            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="40px"/>
+        </div>
         <br><br>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
