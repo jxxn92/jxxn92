@@ -143,6 +143,12 @@
 </div>
 </p>
 
+<p align="center">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/jxxn92"/>
+    </a>
+</p>
+
 <!-- <details>
   <summary> 🎁 </summary>
 
