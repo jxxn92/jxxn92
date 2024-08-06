@@ -145,7 +145,7 @@
 
 <p align="center">
     <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jxxn92?pet-id=10000" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/jxxn92?pet-id=72" width="1000" height="120"/>
 </a>
 </p>
 
