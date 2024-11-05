@@ -145,8 +145,12 @@
 
 <p align="center">
     <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jxxn92?pet-id=72" width="1000" height="120"/>
-</a>
+      <img
+        src="https://render.gitanimals.org/lines/jxxn92?pet-id=620991609996030065"
+        width="600"
+        height="120"
+      />
+    </a>  
 </p>
 
 <!-- <details>
