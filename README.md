@@ -60,8 +60,6 @@
 
 </div>
 
-![snake gif](https://github.com/jxxn92/jxxn92/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 
 <!-- 공부 -->
@@ -144,6 +142,8 @@
 
 </div>
 </p>
+
+![snake gif](https://github.com/jxxn92/jxxn92/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
     <a href="https://github.com/devxb/gitanimals">
