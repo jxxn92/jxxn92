@@ -14,7 +14,7 @@
 <br>
     <div align="center">
         <h3> 📞 Contact 📞 </h3>
-        <h3><strong> futjxxn@gmail.com </strong></h3>
+        <h3><strong> futjxxn@naver.com </strong></h3>
         <h3> 📣 Social 📣 </h3>
         <a href="https://velog.io/@jxxn92/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
         <br>
@@ -28,7 +28,7 @@
 
 <!-- 정보 -->
 
-# 👽 INFO
+# ⭐ INFO
 
 <p>
 <br>
@@ -37,28 +37,12 @@
 ```
 안녕하세요?
 
-이론보다는 실전! 몸으로 먼저 부딪혀 가며 배우는 스타일을 추구하는 학생입니다!
+이론보다는 실전! 몸으로 먼저 부딪혀 가며 배우는 스타일을 추구하는 초보 개발자 지망생 입니다!
 
 ```
 
 </div>
 </p>
-
-<!-- 상태 -->
-
-# ⭐&nbsp; 현재 : OFFLINE <br><br>
-
-<br>
-
-<div align="center">
-
-```
-
-현재 비접속 중입니다.
-
-```
-
-</div>
 
 <br>
 
