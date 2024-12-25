@@ -14,7 +14,7 @@
 <br>
     <div align="center">
         <h3> 📞 Contact 📞 </h3>
-        <h3><strong> futjxxn@naver.com </strong></h3>
+        <h3><strong> futjxxn@gmail.com </strong></h3>
 <!--         <h3> 📣 Social 📣 </h3>
         <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a> -->
     </div>
