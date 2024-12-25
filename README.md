@@ -51,7 +51,7 @@
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
 <p align="center">
-    <h1><strong><br> 💻 Back-End <br></strong></h1>
+    <h1><strong><br> 📘 Back-End <br></strong></h1>
     <br>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
@@ -73,6 +73,15 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="redis" src="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803.svg?&style=for-the-badge&logo=typeorm&logoColor=white"/>
+</p>
+
+<p align="center">
+    <h1><strong><br> 📙 Front-End <br></strong></h1>
+    <br>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
 </p>
 
 <p align="center">
