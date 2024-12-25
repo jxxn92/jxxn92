@@ -96,19 +96,19 @@
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
 <br>
 <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
+<img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <br>
 <img alt="amazonwebservices" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img alt="naver" src="https://img.shields.io/badge/naver cloud platform-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
 <br>
- <img alt="Termius" src="https://img.shields.io/badge/Termius-141628.svg?&style=for-the-badge&logo=Termius&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-    </a>
+<img alt="Termius" src="https://img.shields.io/badge/Termius-141628.svg?&style=for-the-badge&logo=Termius&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
