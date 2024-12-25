@@ -15,13 +15,8 @@
     <div align="center">
         <h3> 📞 Contact 📞 </h3>
         <h3><strong> futjxxn@naver.com </strong></h3>
-        <h3> 📣 Social 📣 </h3>
-        <a href="https://velog.io/@jxxn92/posts" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a>
-        <br>
-        <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-        <br>
-        <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-        <a href="https://discord.gg/" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>   
+<!--         <h3> 📣 Social 📣 </h3>
+        <a href="https://jxxn92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-CB3F7C?style=flat&logo=Ameba&logoColor=white"/></a> -->
     </div>
     <br>
 </p>
