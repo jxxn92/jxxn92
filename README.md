@@ -43,7 +43,7 @@
 
 <!-- 공부 -->
 
-# 📗 Learn <br><br>
+# 📗 Stack <br><br>
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
 <p align="center">
-    <h1><strong><br> 💻 Studying <br></strong></h1>
+    <h1><strong><br> 💻 Back-end <br></strong></h1>
     <br>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,py,js,c,cpp" />
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-    <h1><strong><br> 🎧 Tools <br></strong></h1>
+    <h1><strong><br> 🔧 Tools <br></strong></h1>
     <br>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,idea" />
