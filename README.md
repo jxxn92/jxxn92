@@ -53,47 +53,60 @@
 <p align="center">
     <h1><strong><br> 💻 Back-End <br></strong></h1>
     <br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,py,js,c,cpp" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> <!-- mariadb 추가 -->
-    </a>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
+
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="Spring Security" src="https://img.shields.io/badge/spring security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img alt="DJANGO" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="flask" src="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+
+<img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img alt="Postgres" src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="redis" src="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803.svg?&style=for-the-badge&logo=typeorm&logoColor=white"/>
 </p>
 
 <p align="center">
     <h1><strong><br> 🔧 Tools <br></strong></h1>
     <br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,idea" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=spring,gradle,hibernate,nginx" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=django,flask" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=github,docker,k8s,git" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=discord,postman,notion" />
-        <br><br>
-        <div style="display: flex; justify-content: center; align-items: center;">
-            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="40px"/>
-            <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="40px"/>
-        </div>
-        <br><br>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
-        <br><br>
+
+<img alt="vscode" src="https://img.shields.io/badge/vscode-0078d7.svg?&style=for-the-badge&logo=vscode&logoColor=white"/>
+<img alt="intellijidea" src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img alt="datagrip" src="https://img.shields.io/badge/datagrip-000000.svg?&style=for-the-badge&logo=datagrip&logoColor=white"/>
+
+<img alt="github" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
+
+<img alt="amazonwebservices" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img alt="naver" src="https://img.shields.io/badge/naver cloud platform-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
+
+ <img alt="Termius" src="https://img.shields.io/badge/Termius-141628.svg?&style=for-the-badge&logo=Termius&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     </a>
 </p>
 
 <p align="center">
     <h1><strong><br> 🔧 Communications <br></strong></h1>
     <br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,idea" />
-        <br><br>
-    </a>
+<img alt="notion" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="discord" src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <!-- <p>
@@ -140,7 +153,7 @@
         width="600"
         height="120"
       />
-    </a>  
+    </a>
 </p>
 
 <!-- <details>
