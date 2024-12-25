@@ -58,7 +58,7 @@
 <img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
-
+<br>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Spring Security" src="https://img.shields.io/badge/spring security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -66,7 +66,7 @@
 <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img alt="flask" src="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
-
+<br>
 <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img alt="Postgres" src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -82,20 +82,20 @@
 <img alt="vscode" src="https://img.shields.io/badge/vscode-0078d7.svg?&style=for-the-badge&logo=vscode&logoColor=white"/>
 <img alt="intellijidea" src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img alt="datagrip" src="https://img.shields.io/badge/datagrip-000000.svg?&style=for-the-badge&logo=datagrip&logoColor=white"/>
-
+<br>
 <img alt="github" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
-
+<br>
 <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
-
+<br>
 <img alt="amazonwebservices" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img alt="naver" src="https://img.shields.io/badge/naver cloud platform-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
-
+<br>
  <img alt="Termius" src="https://img.shields.io/badge/Termius-141628.svg?&style=for-the-badge&logo=Termius&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -103,7 +103,7 @@
 </p>
 
 <p align="center">
-    <h1><strong><br> 🔧 Communications <br></strong></h1>
+    <h1><strong><br> 💬 Communications <br></strong></h1>
     <br>
 <img alt="notion" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="discord" src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
