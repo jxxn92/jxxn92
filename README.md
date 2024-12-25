@@ -51,7 +51,7 @@
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 -->
 <p align="center">
-    <h1><strong><br> 💻 Back-end <br></strong></h1>
+    <h1><strong><br> 💻 Back-End <br></strong></h1>
     <br>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,py,js,c,cpp" />
@@ -83,6 +83,15 @@
         <br><br>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
+        <br><br>
+    </a>
+</p>
+
+<p align="center">
+    <h1><strong><br> 🔧 Communications <br></strong></h1>
+    <br>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,idea" />
         <br><br>
     </a>
 </p>
