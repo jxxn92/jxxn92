@@ -153,8 +153,8 @@
 </div>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jxxn92&theme=radical&locale=ko&short_numbers=true)](https://git.io/streak-stats)
-
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=jxxn92&theme=radical&locale=ko&short_numbers=true)](https://git.io/streak-stats)
+-->
 ![snake gif](https://github.com/jxxn92/jxxn92/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
